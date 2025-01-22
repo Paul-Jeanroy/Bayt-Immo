@@ -1,36 +1,41 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 Challenge 1H - Landing Page #2
 
-## Getting Started
+Un défi de reproduction de maquette réalisé en 1 heure chrono ! Cette landing page moderne a été développée avec Next.js et Tailwind CSS, mettant en avant une structure de code propre et maintenable.
 
-First, run the development server:
+## 🎯 Le Défi
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- ⏱️ Temps imparti : 1 heure 
+- 🎨 Objectif : Reproduire fidèlement une maquette 
+- ✨ Animations et transitions fluides
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ Technologies Utilisées
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Next.js
+- Tailwind CSS 
+- TypeScript
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🌟 Fonctionnalités
 
-## Learn More
+- ✨ Design moderne et épuré 
+- 🔄 Transitions fluides 
+- 💫 Animations au hover 
+- 🎨 Dégradés et effets visuels 
+- 🔍 Code optimisé et maintenable
 
-To learn more about Next.js, take a look at the following resources:
+## 🎨 Aperçu
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![Capture d’écran 2025-01-22 à 21 48 23](https://github.com/user-attachments/assets/f72a3849-d6e3-4e2c-8ae7-c10ecf7619cc)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## 📝 Notes 
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Ce projet a été réalisé dans le cadre d'un défi de développement front-end avec une contrainte de temps d'une heure. L'objectif était de démontrer la capacité à :
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Reproduire rapidement une maquette 
+- Structurer proprement le code 
+- Utiliser efficacement Next.js et Tailwind CSS 
+- Créer des composants réutilisables
+
+## 📫 Contact 
+
+Paul JEANROY
